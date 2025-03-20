@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @manavbahuguna
-- 👀 I’m interested in fast performing algoirthms
-- 🌱 I’m currently learning c++
+
 - 📫 How to reach me manavbahuguna13@gmail.com
 
 <!---
