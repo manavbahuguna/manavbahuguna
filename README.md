@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @manavbahuguna
-
-- 📫 How to reach me manavbahuguna13@gmail.com
+Google Colab
 
 <!---
 manavbahuguna/manavbahuguna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
